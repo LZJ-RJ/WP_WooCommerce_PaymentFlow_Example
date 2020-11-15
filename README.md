@@ -1,2 +1,9 @@
-# WP_WooCommerce_PaymentFlow_Example
-WP使用WooCommerce購物系統去串接金流的範例檔案，之後有其他金流可以參照此範例去串接。
+# WordPress_WooCommerce_PaymentFlow_Example
+此為WordPress使用WooCommerce購物系統去串接金流的範例外掛，
+之後有其他金流可以參照此範例去串接。
+
+目前以串接某銀行金流API當作範例，部分參數需依照串接金流方的API文件去調整。
+
+
+## 目的
+熟悉WordPress以及Woocommerce的使用，以及此外掛可利於後續串接其他金流更加快速。
